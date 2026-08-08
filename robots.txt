@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-sfj4nn.shadowdiary.com/sitemap.xml
